@@ -1,7 +1,6 @@
 #!/bin/bash
 
 cd /home/bruce/rules
-rm access.log
 git add .
 git commit -m update
 git push
