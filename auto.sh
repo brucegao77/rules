@@ -8,3 +8,4 @@ git push
 
 mv /var/log/xray/access.log ./
 chmod 666 access.log
+systemctl restart xray
